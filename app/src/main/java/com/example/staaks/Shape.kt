@@ -1,4 +1,4 @@
 package com.example.staaks
 
-abstract class Shape (val x: Int, val y: Int, val color: String = "purple"){
+abstract class Shape (val x: Int, val y: Int, val color: String = "red"){
 }
