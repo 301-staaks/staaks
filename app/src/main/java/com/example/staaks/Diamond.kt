@@ -1,3 +1,3 @@
 package com.example.staaks
 
-class diamond(x: Int, y: Int) : Shape(x, y) {}
+class Diamond(x: Int, y: Int) : Shape(x, y) {}
